@@ -24,4 +24,4 @@ M.S., **Sogang University**, South Korea.
 
 [Paper (ISCA Archive)](https://www.isca-archive.org/interspeech_2026/kim26p_interspeech.html)
 
-**Related:** [Master's Thesis (Sogang University, 2026)](https://dcollection.sogang.ac.kr/dcollection/srch/srchDetail/000000083450)
+**Related:** [Master's Thesis (Sogang University, 2026)](https://dcollection.sogang.ac.kr/dcollection/srch/srchDetail/000000083450) (in Korean)
