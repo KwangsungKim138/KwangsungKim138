@@ -6,6 +6,8 @@ Software engineer with an interest in speech AI and linguistics.
 Currently working at **CBS (Christian Broadcasting System)**.  
 M.S., **Sogang University**, South Korea.
 
+[Google Scholar](https://scholar.google.com/citations?user=T9mo2koAAAAJ)
+
 ## Research Interests
 
 - Speech synthesis (TTS)
@@ -21,3 +23,5 @@ M.S., **Sogang University**, South Korea.
 *Interspeech 2026*
 
 [Paper (ISCA Archive)](https://www.isca-archive.org/interspeech_2026/kim26p_interspeech.html)
+
+**Related:** [Master's Thesis (Sogang University, 2026)](https://dcollection.sogang.ac.kr/dcollection/srch/srchDetail/000000083450)
